@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     /*
-     * Главный метод. ?????
+     * Главный метод. ?????&
      */
     public static void main(String[] args) {
         // вызывает метод start()
